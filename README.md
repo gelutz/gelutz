@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java + Spring Boot**
+- 🌱 I’m currently learning **Next.JS**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-e-lutz/](https://www.linkedin.com/in/gabriel-e-lutz/)
 
