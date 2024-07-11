@@ -1,5 +1,3 @@
-<div align="center">
-<h1 align="center">Gabriel Lutz</h1>
 <!-- Typing SVG -->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=2500&color=9E8BF9&vCenter=true&center=true&multiline=true&random=false&width=435&lines=I+identify+as+a+curious+developer;Anything+is+interesting+when+you+love+to+code">
