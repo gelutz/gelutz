@@ -56,8 +56,12 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gelutz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </p>
-<!-- Link que conta as views no perfil  -->
 
+[![Gelutz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gelutz)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Link que conta as views no perfil  -->
 ![](https://hit.yhype.me/github/profile?user_id=44882683)
+
+
 
 </div>
