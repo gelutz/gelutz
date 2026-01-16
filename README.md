@@ -37,7 +37,7 @@
 
 ### I'm a passionate software developer from Brazil, currently working at [RSData](https://rsdata.com.br/).
 
-### Currently learning Next.JS and TRPC.
+### Currently studying more about Java and Angular.
 
 <br>
 
